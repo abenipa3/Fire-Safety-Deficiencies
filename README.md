@@ -1,5 +1,5 @@
 # Fire-Safety-Deficiencies
-Python Exercise (Github Test)
+Python Exercise
 
 This exercise is to analyze all types of fire safety deficiences received in the United States with Jupyter Notebook (and experiment with Github).
 
